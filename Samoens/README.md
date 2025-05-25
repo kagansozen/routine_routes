@@ -1,3 +1,3 @@
 # Samoens
 
-- 2023 Christmas Run
+Run around _Lac aux Dames__, Christmas 2023.
